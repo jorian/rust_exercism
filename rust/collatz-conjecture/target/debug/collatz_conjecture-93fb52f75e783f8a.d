@@ -1,0 +1,1 @@
+/Users/JorianWielink/exercism/rust/collatz-conjecture/target/debug/collatz_conjecture-93fb52f75e783f8a: /Users/JorianWielink/exercism/rust/collatz-conjecture/src/lib.rs /Users/JorianWielink/exercism/rust/collatz-conjecture/tests/collatz-conjecture.rs

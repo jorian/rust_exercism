@@ -1,0 +1,1 @@
+/Users/JorianWielink/exercism/rust/armstrong-numbers/target/debug/armstrong_numbers-39fd04c789a2dfd3: /Users/JorianWielink/exercism/rust/armstrong-numbers/src/lib.rs /Users/JorianWielink/exercism/rust/armstrong-numbers/tests/armstrong-numbers.rs
